@@ -1,0 +1,31 @@
+{
+  "version": "1.0.6",
+  "environment": "production",
+  "api": {
+    "domain": "https://api.merlink.merlintech.io"
+  },
+  "union_scopes": "payments transfers account_info account_inquiry account_transactions",
+  "google_api": {
+    "scheme": "https",
+    "host": "maps.googleapis.com",
+    "search_address": {
+      "path": "maps/api/place/autocomplete/json",
+      "types": "address"
+    },
+    "place_details": {
+      "path": "maps/api/place/details/json",
+      "fields": "address_component"
+    }
+  },
+  "country": "ph",
+  "isoCodes": [
+    "CA",
+    "PH"
+  ],
+  "firebase": {
+    "storage": {
+      "url": "gs://merlin-32bc6.appspot.com"
+    }
+  },
+  "inchat-transfer-prefix": ":-merlinc"
+}

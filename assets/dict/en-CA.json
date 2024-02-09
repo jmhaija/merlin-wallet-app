@@ -1,0 +1,300 @@
+{
+  "OK": "OK",
+  "Continue": "Continue",
+  "Cancel": "Cancel",
+  "main": {
+    "Merlinc": "Merlinc",
+    "NullReceived": "Null received",
+    "failedToGetURI": "Failed to receive initial uri",
+    "loggingOut": "Logging Out ..."
+  },
+  "home": {
+    "Send": "Send",
+    "Insurance": "Insurance",
+    "Banks": "Banks",
+    "Investment": "Invest",
+    "Bills": "Bills",
+    "Rewards": "Rewards",
+    "Chat": "chat",
+    "Communities": "Your Communities"
+  },
+  "profile": {
+    "profile_header": "Profile",
+    "NameValidationLength": "The name you entered must contain less than 20 characters.",
+    "NameValidation": "You have entered an invalid name, Please try again.",
+    "FirstName": "First Name",
+    "EnterFirstName": "Please enter your first name",
+    "LastName": "Last Name",
+    "EnterLastName": "Please enter your last name",
+    "Email": "Email",
+    "Phone": "Phone",
+    "dob": "Date of Birth",
+    "address": "Address",
+    "EnterDOB" : "Pleae select date of birth",
+    "EnterAddress" : "Please enter address",
+    "ProfilePicture" : "Choose Photo from Gallery",
+    "TakePhoto" : "Take Photo",
+    "RemovePhoto" : "Remove Profile Photo"
+  },
+  "start": {
+    "WelcomMsg": "Welcome to Merlinc",
+    "SignUpToApp": "Sign up to the app!",
+    "SignUp": "Sign up",
+    "Chats": "Chats",
+    "Hi": "Say Hi...",
+    "Home": "Home"
+  },
+  "my_banks": {
+    "Header": "My Banks",
+    "ButtonText": "Connect to your bank",
+    "Error": "Something went wrong!"
+  },
+  "pages": {
+    "coming_soon": "coming soon"
+  },
+  "HaveAccount": "Already have an Account?",
+  "NoAccount": "Don't have an Account? Sign up!",
+  "ScanQR" : "Please scan your QR code",
+
+  "transaction_receipt": {
+    "Confirmation" : "Confirmation",
+    "Confirmed" : "Confirmed",
+    "Sender" : "Sender: ",
+    "AmountSent" : "Amount Sent: PHP ",
+    "UpdatedAmount:" : "Updated Wallet Amount: ",
+    "Wallet" : "'s wallet",
+    "Receiver" : "Receiver: ",
+    "TransactionDate" : "Transaction Date: ",
+    "ConfirmationId" : "Confirmation Id: "
+
+  },
+
+  "delete_account": {
+    "RequestDeletionReason": "Can you please share to us what was not working? We are fixing bugs as we spot them. If something slipped through our fingers, we'd be so grateful to be aware of it and fix it.",
+    "TypePassword" : "Type your password",
+    "ConfirmDeletion" : "Confirm Deletion",
+    "DeletionReason1" : "I don't understand how to user Merlinc.",
+    "DeletionReason2" : "I have a privacy concern.",
+    "DeletionReason3" : "This is temporary, I'll be back.",
+    "DeletionReason4" : "My account was hacked.",
+    "DeletionReason5" : "I don't find Merlinc useful.",
+    "DeletionReason6" : "I have another Merlinc account.",
+    "DeletionReason7" : "Other",
+    "DeletionReason" : "Reason for deletion (Other)",
+    "Optional" : "Your explanation is entirely optional...",
+    "DeletedSuccessfully" : "Your account was deleted successfully. All your data was removed from our services. Thank you for using Merlinc."
+  },
+  "chat_list_page": {
+    "ErrorMessage": "something went wrong try again!",
+    "StartFirstChat": "Start your first chat!",
+    "UserNotVerifiedMessage": "Please verify your email to start your first chat",
+    "verificationNeeded": "Verification needed!",
+    "verifyEmail": "To be able to search your friends check your inbox to verify your email!"
+  },
+  "login_page": {
+    "EnterValidEmail": "Enter a valid email.",
+    "EnterPass": "Please enter your password",
+    "Login": "Log in",
+    "ForgotPass": "Forgot Password?",
+    "Failed": "Login Failed",
+    "CorrectCred": "Enter correct email/password!",
+    "LoggingIn": "Logging in..."
+  },
+  "forgot_password": {
+    "EmailSent": "Email sent successfully",
+    "ForgotPassword": "Email Confirmation",
+    "VerifyEmail": "Verify Your Email",
+    "ResetPassword": "Reset Password",
+    "ChangePass": "Change Password",
+    "ConfirmEmail": "Confirm Email",
+    "EmailNotExist": "Your email does not exist.",
+    "ChooseOtherEmail": "Pleae enter a valid email address.",
+    "WrongCode": "The code you entered is wrong, please try again!",
+    "WrongPassword": "The password you entered is wrong, please try again"
+  },
+  "password_page": {
+    "Password": "Password",
+    "ConfirmPassword": "Confirm Password",
+    "EnterValidPass": "Please enter a vaild Password",
+    "MatchPassword": "Passwords must match",
+    "PasswordValidation": "Your password should be minimum 10 characters with at least 1 letter and 1 number.",
+    "SuccessPass": "Password added successfully",
+    "SetPass": "Set Password",
+    "CreateError": "Something went wrong. Could not create the password"
+  },
+  "account_page": {
+    "Account": "Account Number",
+    "SuccessAccount": "Account added successfully",
+    "SetAccount": "Add Account number",
+    "UpdateError": "Something went wrong. Could not update the account"
+  },
+  "user_status": {
+    "Registered": "registered",
+    "Active": "active",
+    "Verified": "verified",
+    "Unverified": "unverified"
+  },
+  "registration_page": {
+    "SuccessEmail": "Email added successfully",
+    "EmailRegistration": "Sign Up",
+    "Error": "Error",
+    "EnterValid": "Enter a valid email/password address and check the TOS box",
+    "EmailExists": "Your Email already exists",
+    "ChooseOtherEmail": "Choose another Email address!",
+    "GOOGLE_API_KEY": "GOOGLE_API_KEY not found"
+  },
+  "Next": "Next",
+  "Loading": "Loading...",
+  "TOS": "I agree to the ",
+  "ClickableTOS": "Terms and Conditions",
+  "hint_word": {
+    "VerificationCode": "Verification Code",
+    "EmailHint": "Email",
+    "PassHint": "Password",
+    "NewPassHint": "New password",
+    "OldPassHint": "Old password",
+    "AmountHint": " Enter your amount",
+    "AccountNumberHint": " Account number"
+  },
+  "chat": {
+    "EditChatRoomName": "Chatroom Name",
+    "SearchUser": "Go to search user screen",
+    "CreatingChat": "Creating chat room...",
+    "CreatingChatRoomFailed": "Creating chatroom failed...",
+    "Msg": "Type your message",
+    "sendMoneyTitle": "Enter the amount in ",
+    "sendMoneyConfirm": "Enter your password to confirm your identity",
+    "verifying": "Verifying ...",
+    "passwordMsg": "Password does not match",
+    "confirmButton": "Confirm",
+    "DeleteChat": "Exit",
+    "ConfirmDelete": "Are you sure you want to leave this chat room?",
+    "CancelDelete": "Cancel"
+  },
+  "side_nav": {
+    "UserName": "User Name",
+    "MyWallet": "My Wallet",
+    "MyBanks": "My Banks",
+    "Profile": "Profile",
+    "About": "About",
+    "Chats": "Chats",
+    "Setting": "Settings",
+    "SuccessLogout": "Logout successfully",
+    "Loading": "Loading..."
+  },
+  "setting": {
+    "Setting": "Settings",
+    "Account" : "Account",
+    "LogOut": "Sign out",
+    "Common" : "Common",
+    "Language" : "Language",
+    "English" : "English",
+    "Security" : "Security",
+    "DeleteAccount" : "Delete Account",
+    "BiometricAuthentication" : "Biometric Authentication",
+    "FingerprintID" : "Fingerprint/Face ID",
+    "Version": "Version",
+    "About": "About"
+  },
+  "wallet": {
+    "AddMyWallet": "My Wallet"
+  },
+  "banks": {
+    "AddBanks": "Add a bank",
+    "UnionBank": "Union Bank"
+  },
+  "unload_page": {
+    "Unload": "Unload",
+    "accountError": "Please enter the account number",
+    "Failed": "Unload Failed",
+    "CorrectCredAmount": "Please enter amount",
+    "CorrectCredAaccount": "Please enter amount",
+    "SuccessUnload": "Money withdraw successfully",
+    "UnloadError": "Something went wrong. Could not update the account"
+  },
+  "load_page": {
+    "Load": "Load",
+    "accountError": "Please enter the amount",
+    "Failed": "Loading money Failed",
+    "CorrectCredAmount": "Please enter amount",
+    "CorrectCredAaccount": "Please enter amount",
+    "SuccessUnload": "Money loaded successfully",
+    "LoadError": "Something went wrong. Could not load the money"
+  },
+  "otp": {
+    "PhoneVerify": "Verify Phone Number",
+    "Send": "Send",
+    "OTP": "Verification Code",
+    "Resend": "Resend?",
+    "Confirm": "Confirm",
+    "ExpireMsg": "This code will expire in ",
+    "VerificationExpired": "Verification code is expired. Please try again.",
+    "VericationCode": "Please enter verification code",
+    "SuccessLoadMoney": "loaded money successfully",
+    "ValidVerificationCode": "Please enter valid verification code",
+    "ValidOTP": "invalid otp token"
+  },
+  "phone_number": {
+    "EnterPhoneNumber": "Enter Phone Number",
+    "PhoneValidation": "Please enter the phone number",
+    "Failed": "An error happened when sending your phone number",
+    "CorrectCred": "Please enter your phone number"
+  },
+  "enter_otp": {
+    "Failed": "An error happened when sending your otp code",
+    "CorrectCred": "Please enter your otp code",
+    "PhoneNum": "Please enter your phone number"
+  },
+  "search": {
+    "NotFound": "User not found!",
+    "Found": "User found",
+    "Search": "Search User",
+    "SendMoney": "Send Money",
+    "SearchHint": "Search user by email...",
+    "lookupEmailHint": "Search email to send money",
+    "UserNotFound": "User not found!"
+  },
+  "loading": {
+    "EnterAmount": "Enter Amount",
+    "AddButton": "Add to wallet",
+    "LoadSuccess": "Loaded money successfully",
+    "VerifyPhoneError": "Can't verify phone number",
+    "OTPError": "OTP Error! \nPlease fill out all of the OTP Codes correctly.",
+    "ErrorMessage": "Loading Failed, Please Try Again",
+    "LoadingValidation": "Please enter the amount",
+    "TransferMoney": "Transfer Money",
+    "Failed": "An error happened when loading money",
+    "CorrectCred": "Please add the amount"
+  },
+  "send_money": {
+    "Processing": "Processing ...",
+    "SendFailed": "Sending money is failed.",
+    "ErrorWhileRetrievingWallet": "Error Occurred, Wallet Address is not valid",
+    "ok": "Ok",
+    "verifyingWalletAddress": "Verifying wallet address ...",
+    "verifiedWalletAddress": "Wallet Address verified"
+  },
+  "connection_page": {
+    "connectionErrorTitle": "Cannot Unload",
+    "connectionErrorContent": "Connection is not valid",
+    "NoConnection": "No connections yet.",
+    "ConnectToBank": "Connect to a bank"
+  },
+  "balance": {
+    "WithdrawMoney": "Withdraw Money",
+    "AccountNumber": "Account number",
+    "Total": "Total Balance",
+    "Transfer": "transfer",
+    "TransferTo": "Transfer to your bank"
+  },
+  "unloading": {
+    "EnterAmount": "Enter Amount",
+    "TransferMoney": "Withdraw from wallet",
+    "Failed": "An error happened when transferring money",
+    "CorrectCred": "Please add the amount",
+    "UnloadSuccessfully": "unloaded money successfully'"
+  },
+  "transaction": {
+    "Recent": "Recent Transactions"
+  }
+}

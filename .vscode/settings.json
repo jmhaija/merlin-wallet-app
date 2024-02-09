@@ -1,0 +1,17 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "dart.lineLength": 120,
+  "[dart]": {
+    "editor.maxTokenizationLineLength": 2000000,
+    "editor.wrappingIndent": "deepIndent",
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit"
+    },
+    "editor.formatOnSave": false,
+    "editor.wordWrap": "off",
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+  }
+}
